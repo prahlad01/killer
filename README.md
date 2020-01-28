@@ -35,3 +35,21 @@ Enter a Number for a specific output:
 Now killer is installed successfully. To run killer Type killer in your terminal.
 
 Type killer from anywhere in your terminal to open killer.
+
+
+# Warning
+
+I am NOT expert, so use this tool at your own risk!
+
+
+# Info About Author
+
+Name :- Prahlad Shukla
+
+Youtube channel :- The Cyber Kiddie
+
+link :-https://www.youtube.com/channel/UCAdNa5GK715P1U2-A810ujA
+
+instagram :- Prahladshukla414
+
+Website :- www.thecyberkiddie.wordpress.com
