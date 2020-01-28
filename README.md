@@ -11,7 +11,7 @@ apt update
 
 apt install git
 
-git clone https://github.com/Rajkumrdusad/Tool-X.git
+git clone https://github.com/prahlad01/killer
 
 cd killer
 
